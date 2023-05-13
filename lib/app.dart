@@ -1,3 +1,4 @@
+import 'package:announce/themes/theme.dart';
 import 'package:announce/ui/pages/home.dart';
 import 'package:flutter/material.dart';
 
@@ -7,9 +8,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Announce',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
+      theme: AppTheme.theme,
       home: const Home(title: 'Announce'),
     );
   }
