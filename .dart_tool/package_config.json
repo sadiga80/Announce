@@ -8,6 +8,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "args",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/args-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "async",
       "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
@@ -110,6 +116,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_svg",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_svg-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///home/santhoshau/snap/flutter/common/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -200,6 +212,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "path_parsing",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path_provider",
       "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/path_provider-2.0.15",
       "packageUri": "lib/",
@@ -234,6 +252,12 @@
       "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.6",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/petitparser-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "platform",
@@ -362,6 +386,24 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "vector_graphics",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/vector_graphics-1.1.5+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.1.5+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.1.5+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -392,13 +434,19 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/xml-6.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "announce",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-05-13T20:35:23.875167Z",
+  "generated": "2023-05-13T21:22:15.253623Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }

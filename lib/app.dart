@@ -1,5 +1,5 @@
 import 'package:announce/themes/theme.dart';
-import 'package:announce/ui/pages/home.dart';
+import 'package:announce/ui/views/login_view.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
@@ -7,9 +7,10 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Announce',
       theme: AppTheme.theme,
-      home: const Home(title: 'Announce'),
+      home: const LoginView(),
     );
   }
 }
