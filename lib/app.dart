@@ -1,5 +1,5 @@
 import 'package:announce/themes/theme.dart';
-import 'package:announce/ui/views/login_view.dart';
+import 'package:announce/ui/views/signup_view.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
@@ -10,7 +10,7 @@ class App extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Announce',
       theme: AppTheme.theme,
-      home: const LoginView(),
+      home: const SignUpView(),
     );
   }
 }

@@ -1,4 +1,5 @@
 import 'package:announce/themes/app_palettes.dart';
+import 'package:announce/ui/views/login_view.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
@@ -7,6 +8,7 @@ import '../widgets/auth_field.dart';
 import '../widgets/rounded_button.dart';
 
 class SignUpView extends StatefulWidget {
+  static route() => MaterialPageRoute(builder: (context) => const SignUpView());
   const SignUpView({Key? key}) : super(key: key);
 
   @override
@@ -61,18 +63,21 @@ class _SignUpViewState extends State<SignUpView> {
                 ),
                 RichText(
                   text: TextSpan(
-                    text: 'Don`t have an account? ',
+                    text: 'Already have an account? ',
                     style: const TextStyle(
                       fontSize: 16,
                     ),
                     children: [
                       TextSpan(
-                          text: ' Sign up',
+                          text: ' Login',
                           style: const TextStyle(
                             color: AppPalettes.blueColor,
                             fontSize: 16,
                           ),
-                          recognizer: TapGestureRecognizer()..onTap = () {})
+                          recognizer: TapGestureRecognizer()
+                            ..onTap = () {
+                              Navigator.push(context, LoginView.route());
+                            })
                     ],
                   ),
                 )

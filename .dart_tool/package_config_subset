@@ -70,6 +70,10 @@ flutter_lints
 2.17
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_lints-2.0.1/
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_lints-2.0.1/lib/
+flutter_riverpod
+2.17
+file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_riverpod-2.3.6/
+file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_riverpod-2.3.6/lib/
 flutter_svg
 2.19
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_svg-2.0.5/
@@ -82,6 +86,10 @@ flutter_web_auth_2_platform_interface
 2.12
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_web_auth_2_platform_interface-2.1.4/
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_web_auth_2_platform_interface-2.1.4/lib/
+fpdart
+2.17
+file:///home/santhoshau/.pub-cache/hosted/pub.dev/fpdart-0.6.0/
+file:///home/santhoshau/.pub-cache/hosted/pub.dev/fpdart-0.6.0/lib/
 html
 2.17
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/html-0.15.3/
@@ -170,6 +178,10 @@ process
 2.14
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/process-4.2.4/
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/process-4.2.4/lib/
+riverpod
+2.17
+file:///home/santhoshau/.pub-cache/hosted/pub.dev/riverpod-2.3.6/
+file:///home/santhoshau/.pub-cache/hosted/pub.dev/riverpod-2.3.6/lib/
 source_span
 2.14
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/source_span-1.9.1/
@@ -178,6 +190,10 @@ stack_trace
 2.18
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/stack_trace-1.11.0/
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/stack_trace-1.11.0/lib/
+state_notifier
+2.12
+file:///home/santhoshau/.pub-cache/hosted/pub.dev/state_notifier-0.7.2+1/
+file:///home/santhoshau/.pub-cache/hosted/pub.dev/state_notifier-0.7.2+1/lib/
 stream_channel
 2.14
 file:///home/santhoshau/.pub-cache/hosted/pub.dev/stream_channel-2.1.1/

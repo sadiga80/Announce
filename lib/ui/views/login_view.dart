@@ -1,5 +1,6 @@
 import 'package:announce/constants/ui_constants.dart';
 import 'package:announce/themes/theme.dart';
+import 'package:announce/ui/views/signup_view.dart';
 import 'package:announce/ui/widgets/rounded_button.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
@@ -7,6 +8,7 @@ import 'package:flutter/material.dart';
 import '../widgets/auth_field.dart';
 
 class LoginView extends StatefulWidget {
+  static route() => MaterialPageRoute(builder: (context) => const LoginView());
   const LoginView({Key? key}) : super(key: key);
 
   @override
@@ -72,7 +74,10 @@ class _LoginViewState extends State<LoginView> {
                             color: AppPalettes.blueColor,
                             fontSize: 16,
                           ),
-                          recognizer: TapGestureRecognizer()..onTap = () {})
+                          recognizer: TapGestureRecognizer()
+                            ..onTap = () {
+                              Navigator.push(context, SignUpView.route());
+                            })
                     ],
                   ),
                 )

@@ -135,6 +135,13 @@
             </list>
           </value>
         </entry>
+        <entry key="flutter_riverpod">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_riverpod-2.3.6/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="flutter_svg">
           <value>
             <list>
@@ -167,6 +174,13 @@
           <value>
             <list>
               <option value="$USER_HOME$/snap/flutter/common/flutter/packages/flutter_web_plugins/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fpdart">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/fpdart-0.6.0/lib" />
             </list>
           </value>
         </entry>
@@ -324,6 +338,13 @@
             </list>
           </value>
         </entry>
+        <entry key="riverpod">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/riverpod-2.3.6/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="sky_engine">
           <value>
             <list>
@@ -342,6 +363,13 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/stack_trace-1.11.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="state_notifier">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/state_notifier-0.7.2+1/lib" />
             </list>
           </value>
         </entry>
@@ -534,9 +562,11 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/ffi-2.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/file-6.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_lints-2.0.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_riverpod-2.3.6/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_svg-2.0.5/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_web_auth_2-2.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_web_auth_2_platform_interface-2.1.4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/fpdart-0.6.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/html-0.15.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http-0.13.6/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http_parser-4.0.2/lib" />
@@ -559,8 +589,10 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/platform-3.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/process-4.2.4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/riverpod-2.3.6/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/source_span-1.9.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/stack_trace-1.11.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/state_notifier-0.7.2+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/stream_channel-2.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/string_scanner-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/term_glyph-1.2.1/lib" />

@@ -116,6 +116,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_riverpod",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_riverpod-2.3.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "flutter_svg",
       "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/flutter_svg-2.0.5",
       "packageUri": "lib/",
@@ -144,6 +150,12 @@
       "rootUri": "file:///home/santhoshau/snap/flutter/common/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "fpdart",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/fpdart-0.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "html",
@@ -278,6 +290,12 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "riverpod",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/riverpod-2.3.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///home/santhoshau/snap/flutter/common/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -294,6 +312,12 @@
       "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
+    },
+    {
+      "name": "state_notifier",
+      "rootUri": "file:///home/santhoshau/.pub-cache/hosted/pub.dev/state_notifier-0.7.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "stream_channel",
@@ -446,7 +470,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-05-13T21:22:15.253623Z",
+  "generated": "2023-05-20T18:22:29.480042Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }
